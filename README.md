@@ -1,3 +1,10 @@
-# Image Classification with ResNet18 (PyTorch)
+# 🧠 Brain Tumor Classification with ResNet18 (PyTorch)
 
-This project uses a pretrained ResNet18 model from PyTorch's `torchvision` library, fine-tuned to classify images into 4 categories. It includes training, evaluation, and loss visualization.
+This project uses a fine-tuned ResNet18 model from PyTorch to classify brain MRI images into four categories:
+
+- **Glioma**
+- **Meningioma**
+- **Pituitary**
+- **No Tumor**
+
+It includes data preprocessing, model training, evaluation, loss visualization, and model saving.
