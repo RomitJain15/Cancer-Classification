@@ -1,4 +1,4 @@
-# 🧠 Brain Tumor Classification with ResNet18 (PyTorch)
+# Brain Tumor Classification with ResNet18 (PyTorch)
 
 This project uses a fine-tuned ResNet18 model from PyTorch to classify brain MRI images into four categories:
 
